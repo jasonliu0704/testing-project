@@ -8,6 +8,9 @@
 
 ---
 
+example output reference: 
+https://www.instagram.com/keepingcurrentmatters/
+
 ## Executive Summary
 
 This document describes a fully autonomous AI agent system that:
